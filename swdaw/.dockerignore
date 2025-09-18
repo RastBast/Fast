@@ -1,0 +1,10 @@
+.git
+*.md
+README*
+.vscode/
+.idea/
+*.log
+test_*.go
+simple_*.go
+fallback_*.go
+
